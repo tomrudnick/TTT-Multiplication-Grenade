@@ -1,0 +1,10 @@
+{
+	"title"		:	"TTT Multiplication Grenade",
+	"type"		:	"weapon",
+	"tags"		:	[ "roleplay", "fun" ],
+	"ignore"	:	
+	[
+		".git/*",
+		"*.md"
+	]
+}
